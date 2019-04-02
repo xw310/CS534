@@ -1,0 +1,24 @@
+now processing test_im1.bmp
+inpainting of  test_im1.bmp under window size  5 takes  1389.52792001
+
+
+now processing test_im1.bmp
+inpainting of  test_im1.bmp under window size  9 takes  1969.31244302
+
+
+now processing test_im1.bmp
+inpainting of  test_im1.bmp under window size  11 takes  2133.69361687
+
+
+now processing test_im2.bmp
+inpainting of  test_im2.bmp under window size  5 takes  743.741944075
+
+
+now processing test_im2.bmp
+inpainting of  test_im2.bmp under window size  9 takes  1048.46696997
+
+
+now processing test_im2.bmp
+inpainting of  test_im2.bmp under window size  11 takes  1445.42782402
+
+

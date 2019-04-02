@@ -1,0 +1,12 @@
+now processing test_im3.jpg
+remove person and inpaint by Efros algo with window size of  9  takes  5323.54332733
+now processing test_im3.jpg
+remove sign and inpaint by Efros algo with window size of  9  takes  6485.74055321
+now processing test_im3.jpg
+
+now processing test_im3.jpg
+remove sign and inpaint by CPT algo with window size of  9  takes  301.238740921
+now processing test_im3.jpg
+remove person and inpaint by CPT algo with window size of  9  takes  264.031646967
+now processing test_im3.jpg
+remove ground and inpaint by CPT algo with window size of  9  takes  5255.68351889

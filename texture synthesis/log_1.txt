@@ -1,0 +1,59 @@
+now processing T1.gif
+synthesis of  T1.gif under window size  5 takes  192.533631802
+
+now processing T1.gif
+synthesis of  T1.gif under window size  9 takes  221.761161089
+
+now processing T1.gif
+synthesis of  T1.gif under window size  11 takes  391.642830133
+
+now processing T1.gif
+synthesis of  T1.gif under window size  15 takes  431.328315973
+
+now processing T2.gif
+synthesis of  T2.gif under window size  5 takes  102.277468204
+
+now processing T2.gif
+synthesis of  T2.gif under window size  9 takes  172.114205837
+
+now processing T2.gif
+synthesis of  T2.gif under window size  11 takes  183.256201982
+
+now processing T2.gif
+synthesis of  T2.gif under window size  15 takes  361.926251888
+
+now processing T3.gif
+synthesis of  T3.gif under window size  5 takes  127.582095146
+
+now processing T3.gif
+synthesis of  T3.gif under window size  9 takes  143.708427906
+
+now processing T3.gif
+synthesis of  T3.gif under window size  11 takes  167.912806034
+
+now processing T3.gif
+synthesis of  T3.gif under window size  15 takes  236.573104143
+
+now processing T4.gif
+synthesis of  T4.gif under window size  5 takes  61.6848330498
+
+now processing T4.gif
+synthesis of  T4.gif under window size  9 takes  93.8901031017
+
+now processing T4.gif
+synthesis of  T4.gif under window size  11 takes  116.473903894
+
+now processing T4.gif
+synthesis of  T4.gif under window size  15 takes  154.862360001
+
+now processing T5.gif
+synthesis of  T5.gif under window size  5 takes  351.466217041
+
+now processing T5.gif
+synthesis of  T5.gif under window size  9 takes  721.03487587
+
+now processing T5.gif
+synthesis of  T5.gif under window size  11 takes  1241.2532258
+
+now processing T5.gif
+synthesis of  T5.gif under window size  15 takes  1581.5699048
